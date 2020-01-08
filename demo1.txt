@@ -7,3 +7,5 @@ beans
 pizza
 
 So, let's start learning GIT
+
+done my changes

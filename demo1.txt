@@ -3,6 +3,13 @@ Welcome to GIT
 
 This is my first demo on GIT
 
+beans 
+pizza
+
 So, let's start learning GIT
 
+
+done my changes
+
 final copy
+
